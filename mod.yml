@@ -1,0 +1,162 @@
+title: Simple Synth Icons
+originalAuthor: PunningLinguist
+description: Changes synthesis material and recipe icons to the minimal icons from Televo's Re:Collection
+assets:
+- name: itempic/item-181.imd
+  multi:
+  - name: itempic/item-182.imd
+  - name: itempic/item-183.imd
+  - name: itempic/item-184.imd
+  - name: itempic/item-185.imd
+  - name: itempic/item-186.imd
+  - name: itempic/item-187.imd
+  - name: itempic/item-188.imd
+  - name: itempic/item-189.imd
+  - name: itempic/item-190.imd
+  - name: itempic/item-191.imd
+  - name: itempic/item-192.imd
+  - name: itempic/item-193.imd
+  - name: itempic/item-194.imd
+  - name: itempic/item-195.imd
+  - name: itempic/item-196.imd
+  - name: itempic/item-197.imd
+  - name: itempic/item-198.imd
+  - name: itempic/item-199.imd
+  - name: itempic/item-200.imd
+  - name: itempic/item-201.imd
+  - name: itempic/item-202.imd
+  - name: itempic/item-203.imd
+  - name: itempic/item-204.imd
+  - name: itempic/item-205.imd
+  - name: itempic/item-206.imd
+  - name: itempic/item-207.imd
+  - name: itempic/item-208.imd
+  - name: itempic/item-209.imd
+  - name: itempic/item-210.imd
+  - name: itempic/item-211.imd
+  - name: itempic/item-212.imd
+  - name: itempic/item-213.imd
+  - name: itempic/item-214.imd
+  - name: itempic/item-215.imd
+  - name: itempic/item-216.imd
+  - name: itempic/item-217.imd
+  - name: itempic/item-218.imd
+  - name: itempic/item-219.imd
+  - name: itempic/item-220.imd
+  - name: itempic/item-272.imd
+  - name: itempic/item-273.imd
+  - name: itempic/item-274.imd
+  - name: itempic/item-275.imd
+  - name: itempic/item-276.imd
+  - name: itempic/item-277.imd
+  - name: itempic/item-278.imd
+  - name: itempic/item-279.imd
+  - name: itempic/item-280.imd
+  - name: itempic/item-281.imd
+  - name: itempic/item-340.imd
+  - name: itempic/item-341.imd
+  - name: itempic/item-342.imd
+  - name: itempic/item-343.imd
+  - name: itempic/item-344.imd
+  - name: itempic/item-345.imd
+  - name: itempic/item-346.imd
+  - name: itempic/item-347.imd
+  - name: itempic/item-348.imd
+  - name: itempic/item-349.imd
+  - name: itempic/item-350.imd
+  - name: itempic/item-351.imd
+  - name: itempic/item-352.imd
+  - name: itempic/item-353.imd
+  - name: itempic/item-354.imd
+  - name: itempic/item-355.imd
+  - name: itempic/item-356.imd
+  - name: itempic/item-357.imd
+  - name: itempic/item-358.imd
+  - name: itempic/item-359.imd
+  method: copy
+  source:
+  - name: SynthIcons/synth.imd
+- name: itempic/item-243.imd
+  method: copy
+  source:
+  - name: SynthIcons/recipe.imd
+- name: remastered/itempic/item-181.imd/-0.dds
+  multi:
+  - name: remastered/itempic/item-182.imd/-0.dds
+  - name: remastered/itempic/item-183.imd/-0.dds
+  - name: remastered/itempic/item-184.imd/-0.dds
+  - name: remastered/itempic/item-185.imd/-0.dds
+  - name: remastered/itempic/item-186.imd/-0.dds
+  - name: remastered/itempic/item-187.imd/-0.dds
+  - name: remastered/itempic/item-188.imd/-0.dds
+  - name: remastered/itempic/item-189.imd/-0.dds
+  - name: remastered/itempic/item-190.imd/-0.dds
+  - name: remastered/itempic/item-191.imd/-0.dds
+  - name: remastered/itempic/item-192.imd/-0.dds
+  - name: remastered/itempic/item-193.imd/-0.dds
+  - name: remastered/itempic/item-194.imd/-0.dds
+  - name: remastered/itempic/item-195.imd/-0.dds
+  - name: remastered/itempic/item-196.imd/-0.dds
+  - name: remastered/itempic/item-197.imd/-0.dds
+  - name: remastered/itempic/item-198.imd/-0.dds
+  - name: remastered/itempic/item-199.imd/-0.dds
+  - name: remastered/itempic/item-200.imd/-0.dds
+  - name: remastered/itempic/item-201.imd/-0.dds
+  - name: remastered/itempic/item-202.imd/-0.dds
+  - name: remastered/itempic/item-203.imd/-0.dds
+  - name: remastered/itempic/item-204.imd/-0.dds
+  - name: remastered/itempic/item-205.imd/-0.dds
+  - name: remastered/itempic/item-206.imd/-0.dds
+  - name: remastered/itempic/item-207.imd/-0.dds
+  - name: remastered/itempic/item-208.imd/-0.dds
+  - name: remastered/itempic/item-209.imd/-0.dds
+  - name: remastered/itempic/item-210.imd/-0.dds
+  - name: remastered/itempic/item-211.imd/-0.dds
+  - name: remastered/itempic/item-212.imd/-0.dds
+  - name: remastered/itempic/item-213.imd/-0.dds
+  - name: remastered/itempic/item-214.imd/-0.dds
+  - name: remastered/itempic/item-215.imd/-0.dds
+  - name: remastered/itempic/item-216.imd/-0.dds
+  - name: remastered/itempic/item-217.imd/-0.dds
+  - name: remastered/itempic/item-218.imd/-0.dds
+  - name: remastered/itempic/item-219.imd/-0.dds
+  - name: remastered/itempic/item-220.imd/-0.dds
+  - name: remastered/itempic/item-272.imd/-0.dds
+  - name: remastered/itempic/item-273.imd/-0.dds
+  - name: remastered/itempic/item-274.imd/-0.dds
+  - name: remastered/itempic/item-275.imd/-0.dds
+  - name: remastered/itempic/item-276.imd/-0.dds
+  - name: remastered/itempic/item-277.imd/-0.dds
+  - name: remastered/itempic/item-278.imd/-0.dds
+  - name: remastered/itempic/item-279.imd/-0.dds
+  - name: remastered/itempic/item-280.imd/-0.dds
+  - name: remastered/itempic/item-281.imd/-0.dds
+  - name: remastered/itempic/item-340.imd/-0.dds
+  - name: remastered/itempic/item-341.imd/-0.dds
+  - name: remastered/itempic/item-342.imd/-0.dds
+  - name: remastered/itempic/item-343.imd/-0.dds
+  - name: remastered/itempic/item-344.imd/-0.dds
+  - name: remastered/itempic/item-345.imd/-0.dds
+  - name: remastered/itempic/item-346.imd/-0.dds
+  - name: remastered/itempic/item-347.imd/-0.dds
+  - name: remastered/itempic/item-348.imd/-0.dds
+  - name: remastered/itempic/item-349.imd/-0.dds
+  - name: remastered/itempic/item-350.imd/-0.dds
+  - name: remastered/itempic/item-351.imd/-0.dds
+  - name: remastered/itempic/item-352.imd/-0.dds
+  - name: remastered/itempic/item-353.imd/-0.dds
+  - name: remastered/itempic/item-354.imd/-0.dds
+  - name: remastered/itempic/item-355.imd/-0.dds
+  - name: remastered/itempic/item-356.imd/-0.dds
+  - name: remastered/itempic/item-357.imd/-0.dds
+  - name: remastered/itempic/item-358.imd/-0.dds
+  - name: remastered/itempic/item-359.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: SynthIcons/synth.dds
+- name: remastered/itempic/item-243.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: SynthIcons/recipe.dds
